@@ -1,7 +1,18 @@
  # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>Hey! Nice to see you.
+ 
+## Here are some ideas to get you started:
 
+- 🔭 I’m currently working on [「xiaoTools」](https://github.com/xiaoxunyao/xiaoTools)
+- 🌱 I’m currently learning 「Java」,「TypeScript」
+- 👯 I’m looking to collaborate on 「xiaoTools」
+- 🤔 I’m looking for help with 「Java」
+- 📫 How to reach me: <huchengyea@163.com>
+
+## My history
 ![Anurag's GitHub stats](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=xiaoxunyao&show_icons=true)
 
+
+## My favorite language
 ![Top Langs](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=xiaoxunyao&layout=compact)
 
 
