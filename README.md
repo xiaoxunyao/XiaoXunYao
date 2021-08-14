@@ -27,5 +27,5 @@
 
 ## Open source projects
 
-[![xiaoTools](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiaoxunyao&repo=xiao-organization/xiaoTools)](https://github.com/xiao-organization/xiaoTools)
+[![xiaoTools](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiao-organization&repo=xiaoTools)](https://github.com/xiao-organization/xiaoTools)
 [![ZFile](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiaoxunyao&repo=ZFile)](https://github.com/xiaoxunyao/ZFile)
