@@ -2,7 +2,7 @@
  
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [「xiaoTools」](https://github.com/xiaoxunyao/xiaoTools)
+- 🔭 I’m currently working on [「xiaoTools」](https://github.com/xiao-organization/xiaoTools)
 - 🌱 I’m currently learning 「Java」,「TypeScript」
 - 👯 I’m looking to collaborate on 「xiaoTools」
 - 🤔 I’m looking for help with 「Java」
@@ -27,5 +27,5 @@
 
 ## Open source projects
 
-[![xiaoTools](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiaoxunyao&repo=xiaoTools)](https://github.com/xiaoxunyao/xiaoTools)
+[![xiaoTools](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiaoxunyao&repo=xiao-organization/xiaoTools)](https://github.com/xiao-organization/xiaoTools)
 [![ZFile](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiaoxunyao&repo=ZFile)](https://github.com/xiaoxunyao/ZFile)
