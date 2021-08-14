@@ -15,16 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google_chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 
-## My history
-![Anurag's GitHub stats](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=xiaoxunyao&show_icons=true)
-
-
-## My favorite language
-![Top Langs](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=xiaoxunyao&layout=compact)
-
-
-
-
 ## Open source projects
 
 [![xiaoTools](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/pin/?username=xiao-organization&repo=xiaoTools)](https://github.com/xiao-organization/xiaoTools)
